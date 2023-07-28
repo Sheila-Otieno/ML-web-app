@@ -4,23 +4,29 @@ A streamlit ml web app that predicts the price of diamonds based on the size of 
 Diamond price prediction
 
 Exploratory analysis
-![image](https://github.com/Sheila-Otieno/ML-web-app/assets/59034245/a4792e2d-a919-48d2-ad2a-a067435d5956)
+Checking for the shape of the data and null values
+<img width="407" alt="shapeofdata" src="https://github.com/Sheila-Otieno/ML-web-app/assets/59034245/f57643bd-ea4c-4d85-b5cc-5d554098c1e5">
 
 Tabular data 
-![image](https://github.com/Sheila-Otieno/ML-web-app/assets/59034245/38a9ccae-c4a1-43ad-882d-ed59e5d351aa)
+<img width="561" alt="tabulardata" src="https://github.com/Sheila-Otieno/ML-web-app/assets/59034245/043ec558-c04a-4073-a8c3-261570010cb3">
+
 
 Statistical summary
-![image](https://github.com/Sheila-Otieno/ML-web-app/assets/59034245/f0fb561c-8361-4255-ba80-a3ccbc3a3cc6)
+
+<img width="560" alt="statisticalsummary" src="https://github.com/Sheila-Otieno/ML-web-app/assets/59034245/5fc7f1ac-e121-4211-85ab-08ab525aaf26">
 
 Graphs
 Scatter plot
-![image](https://github.com/Sheila-Otieno/ML-web-app/assets/59034245/51eb20e5-c27a-4b4e-a27d-6e998ed61f8d)
+<img width="598" alt="scatterplot" src="https://github.com/Sheila-Otieno/ML-web-app/assets/59034245/65409713-3986-4f30-b1ca-81b5f11b5df0">
+
 
 Bargraph
-![image](https://github.com/Sheila-Otieno/ML-web-app/assets/59034245/68a4198a-40f4-44fc-a7b5-fd485348fe86)
+<img width="585" alt="bargraph" src="https://github.com/Sheila-Otieno/ML-web-app/assets/59034245/0e19373d-626e-4df1-8418-0a35f6c431be">
+
 
 Histogram
-![image](https://github.com/Sheila-Otieno/ML-web-app/assets/59034245/1a2f6061-bee3-4378-ac62-beb3243e6456)
+
+<img width="599" alt="histogram" src="https://github.com/Sheila-Otieno/ML-web-app/assets/59034245/f7612452-2ed6-45f7-aa15-467f00d5ce4e">
 
 
 
