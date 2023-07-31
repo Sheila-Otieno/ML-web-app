@@ -30,6 +30,11 @@ A streamlit ml web app that predicts the price of diamonds based on the size of 
 
 <img width="599" alt="histogram" src="https://github.com/Sheila-Otieno/ML-web-app/assets/59034245/f7612452-2ed6-45f7-aa15-467f00d5ce4e">
 
+<p>Linear regresssion model</p>
+<p>Simple linear regression model that uses the size of the carat as the input and the price of the diamond as the target values</p>
+<p>An example is given below</p>
+
+<img width="592" alt="price prediction" src="https://github.com/Sheila-Otieno/ML-web-app/assets/59034245/6a751716-2d6f-4ece-a620-77a9949dac4d">
 
 
 
